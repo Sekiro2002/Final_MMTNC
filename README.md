@@ -2,7 +2,7 @@
 ## MSSV: 20120588
 - Họ và tên: Lê Quang Thọ
 - Số điện thoại: 0865 389 618
-- Email: lequangtho2002@gmail.com
+- Email: 20120588@student.hcmus.edu.vn
 
 ## MSSV: 
 - Họ và tên: Nguyễn Quang Nghị Sinh
